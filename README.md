@@ -1,2 +1,2 @@
-# Intership1 
-This is First task as a web development intern at Oasis Infobyte Internship.
+# Intership Project
+This is my first task as a web development intern at Oasis Infobyte Internship.
